@@ -1,1 +1,1 @@
-© 2026 FeatherGames LLC. Licensed under MirOS license.
+© 2026 FeatherGames LLC. Licensed under MirBSD license.
