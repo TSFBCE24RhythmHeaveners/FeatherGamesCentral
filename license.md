@@ -1,4 +1,4 @@
-This project is licensed under the [MirBSD License](https://web.archive.org/web/20251203142446/http://www.mirbsd.org/MirOS-Licence.htm).
+This project is licensed under the MirBSD License.
 ```
 Copyright © 2026
 FeatherWorks Leader
@@ -19,3 +19,4 @@ of dealing in the work, even if advised of the possibility of such
 damage or existence of a defect, except proven that it results out
 of said person’s immediate fault when using the work as intended.
 ```
+For further information, see this license's [terms and conditions](https://web.archive.org/web/20251203142446/http://www.mirbsd.org/MirOS-Licence.htm).
