@@ -1,3 +1,4 @@
+This project is licensed under the [MirBSD License](https://web.archive.org/web/20251203142446/http://www.mirbsd.org/MirOS-Licence.htm).
 ```
 Copyright © 2026
 FeatherWorks Leader
