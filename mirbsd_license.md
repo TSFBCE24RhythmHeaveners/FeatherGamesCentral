@@ -1,4 +1,5 @@
-This project is licensed under the [MirBSD License](https://web.archive.org/web/20251203142446/http://www.mirbsd.org/MirOS-Licence.htm).
+This project is licensed under the MirBSD License.
+For further information, see this license's [terms and conditions](https://web.archive.org/web/20251203142446/http://www.mirbsd.org/MirOS-Licence.htm).
 ```
 Copyright © (YEAR)
 (PERSON NAME)
